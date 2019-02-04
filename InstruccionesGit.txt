@@ -1,0 +1,3 @@
+status: estado del repositorio
+mkdir: crea una nueva carperta 
+
