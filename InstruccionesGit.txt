@@ -1,6 +1,5 @@
 
 wq! : guardar archivo y salir
-u: deshacer
 :w: guardar fichero actual
 :q: salir
 :tabe : abrir nueva pestaña con un archivo, si se omite se abre un nuevo buffer vacío
