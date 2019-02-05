@@ -1,3 +1,10 @@
-status: estado del repositorio
-mkdir: crea una nueva carperta 
+
+p: pegar
+u: deshacer
+:w: guardar fichero actual
+:q: salir
+:tabe : abrir nueva pestaña con un archivo, si se omite se abre un nuevo buffer vacío
+gt: mover a la siguiente pestaña
+gT: mover a la anterior pestaña
+h, j, k, l: mover cursor una posición a la izquierda, abajo, arriba y a la derecha
 
