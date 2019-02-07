@@ -7,3 +7,6 @@ gt: mover a la siguiente pestaña
 gT: mover a la anterior pestaña
 h, j, k, l: mover cursor una posición a la izquierda, abajo, arriba y a la derecha
 wq!:guardar el archivo acutal y sair
+
+
+HOLAAAAAAAAA
